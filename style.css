@@ -61,3 +61,36 @@
 .btn:hover{
     color: blue;
 }
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.ab{
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+}
+.ax{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.axy{
+
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.box{
+    width: 230px;
+    height: 250px;
+    box-shadow: 4px 4px 15px gray;
+    background-color: black;
+    text-align: center;
+    padding: 15px;
+    color: white;
+}
+.icon{
+    width: 100px;
+}
